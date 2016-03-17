@@ -28,8 +28,10 @@ group :production do
   gem 'pg', '0.12.2'
 end
 
+gem 'minitest'
+
 # To use ActiveModel has_secure_password
-# gem 'bcrypt-ruby', '~> 3.0.0'
+# g	em 'bcrypt-ruby', '~> 3.0.0'
 
 # To use Jbuilder templates for JSON
 # gem 'jbuilder'
